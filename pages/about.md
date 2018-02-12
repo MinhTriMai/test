@@ -1,10 +1,14 @@
-# {Đề tài: Nghiên cứu giải pháp về mô hình C2C và đấu giá trực tuyến trên nền tảng Cách mạng công nghiệp 4.0: Tình huống tại Đại học Kinh tế TP Hồ Chí Minh}
+# Đề tài: Nghiên cứu giải pháp về mô hình C2C và đấu giá trực tuyến trên nền tảng Cách mạng công nghiệp 4.0: Tình huống tại Đại học Kinh tế TP Hồ Chí Minh
 
 Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá trực tuyến vào trong môi trường Đại Học Kinh Tế TP Hồ Chí Minh
-## C2C
+
+## Mô hình C2C
 Áp dụng mô hình C2C vào: 
+
 Mua - Bán các tài sản cá nhân trên mạng;
+
 Thực hiện các dịch vụ tư vấn cá nhân, chuyển giao tri thức qua mạng (miễn phí);
+
 Tham gia cuộc bán đấu giá.
 
 ## Đấu giá trực tuyến
@@ -22,6 +26,7 @@ FPSB: đây là hình thức đấu giá độc lập và private, mỗi ng sẽ
 
 SPSB: khác vs FPSB là ng thắng cuộc sẽ phải trả vs mức giá đấu cao thứ hai.
 
+ Áp dụng DUTCH AUCTION và ENGLISH AUCTION
 ## Tạo ra website ""
 ...
 
