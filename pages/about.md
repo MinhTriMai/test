@@ -7,19 +7,21 @@ Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá
 ## Mô hình C2C
 - Áp dụng mô hình C2C vào: 
 
- + Mua - Bán các tài sản cá nhân trên mạng;
+  + Mua - Bán các tài sản cá nhân trên mạng;
 
- + Thực hiện các dịch vụ tư vấn cá nhân, chuyển giao tri thức qua mạng (miễn phí);
+  + Thực hiện các dịch vụ tư vấn cá nhân, chuyển giao tri thức qua mạng (miễn phí);
 
- + Tham gia cuộc bán đấu giá.
+  + Tham gia cuộc bán đấu giá.
 
 ## Đấu giá trực tuyến
-<ul>Các hình thức đấu giá chính
+<ul> Các hình thức đấu giá chính
 <li> the open ascending price or English auction; </li>
 <li> the open descending price or Dutch auction; </li>
 <li> the frst price sealed bid (FPSB) auction; </li>
 <li> the second price sealed bid (SPSB) auction; </li>
 </ul>
+
+
 | Hình thức đấu giá | Mô tả                                                              |
 | ------------------| -------------------------------------------------------------------|
 | ENGLISH AUCTION   | bắt đầu với giá thấp tang dần lên, mỗi giá đc trình bày rõ ràng và |
