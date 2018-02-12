@@ -22,11 +22,21 @@ Các hình thức đấu giá chính
  
 | Hình thức đấu giá | Mô tả                                                              |
 | ------------------| -------------------------------------------------------------------|
-| ENGLISH AUCTION   | bắt đầu với giá thấp tang dần lên, mỗi giá đc trình bày rõ ràng và | |                   | người thắng cuộc là ng trả giá cao nhất và phải trả đúng với       | |                   | giá trị mà mình đã đấu.                                            | 
-| DUTCH AUCTION     | trái với ENGLISH AUCTION thì DUTCH AUCTION xuất phát vs mức giá rất| |                   | cao, ít ai có thể đáp ứng được mức giá này. Và theo thời gian thì  | |                   | giá sẽ giảm dần cho đến khi người đầu tiên sẵn sang trả một mức giá| |                   | nào đó thì cuộc đấu giá kết thúc. Và người đấu giá sẽ trả đúng với | |                   | mức giá mà mình đã đấu.                                            |
+| ENGLISH AUCTION   | bắt đầu với giá thấp tang dần lên, mỗi giá đc trình bày rõ ràng và |
+|                   | người thắng cuộc là ng trả giá cao nhất và phải trả đúng với       |
+|                   | giá trị mà mình đã đấu.                                            | 
+| DUTCH AUCTION     | trái với ENGLISH AUCTION thì DUTCH AUCTION xuất phát vs mức giá rất|
+|                   | cao, ít ai có thể đáp ứng được mức giá này. Và theo thời gian thì  |
+|                   | giá sẽ giảm dần cho đến khi người đầu tiên sẵn sang trả một mức giá|
+|                   | nào đó thì cuộc đấu giá kết thúc. Và người đấu giá sẽ trả đúng với | 
+|                   | mức giá mà mình đã đấu.                                            |
 | FPSB              | đây là hình thức đấu giá độc lập và private, mỗi ng sẽ viết giá đấu|
-|                   | của mình vào một phong thư và gửi cho ng bán và ng nào trả vs mức  | |                   | giá cao nhất thì sẽ thắng. Và người đấu giá sẽ trả đúng với mức giá| |                   | mà mình đã đấu.                                                    |
-|SPSB               | khác với FPSB là người thắng cuộc sẽ phải trả với mức giá đấu cao  | |                   | thứ hai.                                                           |                                                                                          
+|                   | của mình vào một phong thư và gửi cho ng bán và ng nào trả vs mức  |
+|                   | giá cao nhất thì sẽ thắng. Và người đấu giá sẽ trả đúng với mức giá|
+|                   | mà mình đã đấu.                                                    |
+|SPSB               | khác với FPSB là người thắng cuộc sẽ phải trả với mức giá đấu cao  |
+|                   | thứ hai.                                                           |
+
 
 ENGLISH AUCTION:
 DUTCH AUCTION: trái với ENGLISH AUCTION thì DUTCH AUCTION xuất phát vs mức giá rất cao, ít ai có thể đáp ứng được mức giá này. Và theo thời gian thì giá sẽ giảm dần cho đến khi người đầu tiên sẵn sang trả một mức giá nào đó thì cuộc đấu giá kết thúc. Và người đấu giá sẽ trả đúng với mức giá mà mình đã đấu.
