@@ -1,7 +1,35 @@
-# Nghiên cứu giải pháp về mô hình C2C và đấu giá trực tuyến trên nền tảng Cách mạng công nghiệp 4.0: Tình huống tại Đại học Kinh tế TP Hồ Chí Minh
-## Tìm hiểu tổng quan về C2C
-Là một trong bốn hình thức thương mại điện tử phổ biến hiện nay bao gồm B2B, B2C, C2B và C2C... Vậy C2C là gì? Cùng tìm hiểu tổng quan về C2C qua bài viết sau đây.
+# ${1:Nghiên cứu giải pháp về mô hình C2C và đấu giá trực tuyến trên nền tảng Cách mạng công nghiệp 4.0: Tình huống tại Đại học Kinh tế TP Hồ Chí Minh
+}
+TODO: Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá trực tuyến vào trong môi trường Đại Học Kinh Tế TP Hồ Chí Minh
+## C2C
+Áp dụng mô hình C2C vào: 
+Mua - Bán các tài sản cá nhân trên mạng;
+Thực hiện các dịch vụ tư vấn cá nhân, chuyển giao tri thức qua mạng (miễn phí);
+Tham gia cuộc bán đấu giá.
 
-Hình ảnh
+## Đấu giá trực tuyến
+Các hình thức đấu giá chính
+1. the open ascending price or English auction;
+2. the open descending price or Dutch auction;
+3. the frst price sealed bid (FPSB) auction;
+4. the second price sealed bid (SPSB) auction;
+ 
+ENGLISH AUCTION: bắt đầu với giá thấp tang dần lên, mỗi giá đc trình bày rõ ràng và người thắng cuộc là ng trả giá cao nhất và phải trả đúng với giá trị mà mình đã đấu.
 
-Với những ví dụ đơn giản sau đây, bạn sẽ hình dung rõ hơn về C2C, nếu bạn hiểu hết những khái niệm đó thì cơ hội của bạn đến rồi đấy. Hệ thống bán hàng trực tuyến Ebay, amazon, Lazada… là mô hình kinh doanh C2C thành công nhất hiện nay. Hiểu đơn giản là giữa cá nhân và người tiêu dùng.
+DUTCH AUCTION: trái với ENGLISH AUCTION thì DUTCH AUCTION xuất phát vs mức giá rất cao, ít ai có thể đáp ứng được mức giá này. Và theo thời gian thì giá sẽ giảm dần cho đến khi người đầu tiên sẵn sang trả một mức giá nào đó thì cuộc đấu giá kết thúc. Và người đấu giá sẽ trả đúng với mức giá mà mình đã đấu.
+
+FPSB: đây là hình thức đấu giá độc lập và private, mỗi ng sẽ viết giá đấu của mình vào một phong thư và gửi cho ng bán và ng nào trả vs mức giá cao nhất thì sẽ thắng. Và người đấu giá sẽ trả đúng với mức giá mà mình đã đấu
+
+SPSB: khác vs FPSB là ng thắng cuộc sẽ phải trả vs mức giá đấu cao thứ hai.
+
+## Tạo ra website ""
+...
+### Nhóm thực hiện
+Sinh viên đại học kinh tế:
+1. Phan Lương Minh An
+2. Phạm Anh Dũng
+3. Nguyễn Quỳnh Tố Quyên
+4. Nguyễn Thuỵ Như Khuê
+5. Mai Minh Trị
+### Giảng viên hướng dẫn
+Thầy Võ Hà Quang Định
