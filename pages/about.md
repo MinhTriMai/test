@@ -2,7 +2,7 @@
 
 Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá trực tuyến vào trong môi trường Đại Học Kinh Tế TP Hồ Chí Minh
 
-![Alt text](C:\Users\USER\Documents\GitHub\test\img\portfolio\1.jpg)
+![Alt text](1.jpg)
 
 ## Mô hình C2C
 Áp dụng mô hình C2C vào: 
