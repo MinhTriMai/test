@@ -1,6 +1,6 @@
-# ${1:Nghiên cứu giải pháp về mô hình C2C và đấu giá trực tuyến trên nền tảng Cách mạng công nghiệp 4.0: Tình huống tại Đại học Kinh tế TP Hồ Chí Minh
-}
-TODO: Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá trực tuyến vào trong môi trường Đại Học Kinh Tế TP Hồ Chí Minh
+# {Đề tài: Nghiên cứu giải pháp về mô hình C2C và đấu giá trực tuyến trên nền tảng Cách mạng công nghiệp 4.0: Tình huống tại Đại học Kinh tế TP Hồ Chí Minh}
+
+Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá trực tuyến vào trong môi trường Đại Học Kinh Tế TP Hồ Chí Minh
 ## C2C
 Áp dụng mô hình C2C vào: 
 Mua - Bán các tài sản cá nhân trên mạng;
@@ -24,6 +24,7 @@ SPSB: khác vs FPSB là ng thắng cuộc sẽ phải trả vs mức giá đấu
 
 ## Tạo ra website ""
 ...
+
 ### Nhóm thực hiện
 Sinh viên đại học kinh tế:
 1. Phan Lương Minh An
@@ -31,5 +32,6 @@ Sinh viên đại học kinh tế:
 3. Nguyễn Quỳnh Tố Quyên
 4. Nguyễn Thuỵ Như Khuê
 5. Mai Minh Trị
+
 ### Giảng viên hướng dẫn
 Thầy Võ Hà Quang Định
