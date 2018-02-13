@@ -57,7 +57,7 @@
 ### Nhóm thực hiện
 
 ```
-*Nhóm 5 thành viên:*
+Nhóm 5 thành viên:
 print '1. Phan Lương Minh An'
 print '2. Phạm Anh Dũng'
 print '3. Nguyễn Quỳnh Tố Quyên'
