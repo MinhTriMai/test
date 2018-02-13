@@ -45,7 +45,7 @@ Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá
 ## Tạo ra website " BAT - TAB"
 ...
 
-![Hinh anh](https://s-media-cache-ak0.pinimg.com/originals/23/2a/8b/232a8bd307d7e9394978841a36c71cf4.png width="240" height="180" border="10")
+![Hinh anh](https://s-media-cache-ak0.pinimg.com/originals/23/2a/8b/232a8bd307d7e9394978841a36c71cf4.png style= text-align: center)
 
 
 ### Nhóm thực hiện
