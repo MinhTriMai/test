@@ -5,13 +5,13 @@ Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá
 ![Hinh anh](https://www.br.de/puls/themen/netz/cliqz-102~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=d6a02)
 
 ## Mô hình C2C
-- Áp dụng mô hình C2C vào: 
+> - Áp dụng mô hình C2C vào: 
 
-  + Mua - Bán các tài sản cá nhân trên mạng;
+ >  + Mua - Bán các tài sản cá nhân trên mạng;
 
-  + Thực hiện các dịch vụ tư vấn cá nhân, chuyển giao tri thức qua mạng (miễn phí);
+ >  + Thực hiện các dịch vụ tư vấn cá nhân, chuyển giao tri thức qua mạng (miễn phí);
 
-  + Tham gia cuộc bán đấu giá.
+ >  + Tham gia cuộc bán đấu giá.
 
 ## Đấu giá trực tuyến
 <ul> Các hình thức đấu giá chính
@@ -45,16 +45,16 @@ Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá
 ## Tạo ra website " BAT - TAB"
 ...
 
-![Hinh anh](https://s-media-cache-ak0.pinimg.com/originals/23/2a/8b/232a8bd307d7e9394978841a36c71cf4.png style= text-align: center)
+![Hinh anh](https://s-media-cache-ak0.pinimg.com/originals/23/2a/8b/232a8bd307d7e9394978841a36c71cf4.png)
 
 
 ### Nhóm thực hiện
 Sinh viên đại học kinh tế:
-1. Phan Lương Minh An
-2. Phạm Anh Dũng
-3. Nguyễn Quỳnh Tố Quyên
-4. Nguyễn Thuỵ Như Khuê
-5. Mai Minh Trị
+> 1. Phan Lương Minh An
+> 2. Phạm Anh Dũng
+> 3. Nguyễn Quỳnh Tố Quyên
+> 4. Nguyễn Thuỵ Như Khuê
+> 5. Mai Minh Trị
 
 ### Giảng viên hướng dẫn
-Thầy Võ Hà Quang Định
+> Thầy Võ Hà Quang Định
