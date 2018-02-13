@@ -6,7 +6,7 @@
 ![Hinh anh](https://www.br.de/puls/themen/netz/cliqz-102~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=d6a02)
 
 ## Mô hình C2C
->  Áp dụng mô hình C2C vào: 
+**Áp dụng mô hình C2C vào:** 
 
  >  + Mua - Bán các tài sản cá nhân trên mạng;
 
@@ -15,12 +15,12 @@
  >  + Tham gia cuộc bán đấu giá.
 
 ## Đấu giá trực tuyến
-<ul> Các hình thức đấu giá chính
+**Các hình thức đấu giá chính**
 <li> the open ascending price or English auction; </li>
 <li> the open descending price or Dutch auction; </li>
 <li> the frst price sealed bid (FPSB) auction; </li>
 <li> the second price sealed bid (SPSB) auction; </li>
-</ul>
+
 ---
 
 | Hình thức đấu giá | Mô tả                                                              |
@@ -42,11 +42,16 @@
 
 
 
- Áp dụng DUTCH AUCTION và ENGLISH AUCTION
+ **Áp dụng DUTCH AUCTION và ENGLISH AUCTION**
+
+
 ## Tạo ra website " BAT - TAB"
 ...
 
 ![Hinh anh](https://s-media-cache-ak0.pinimg.com/originals/23/2a/8b/232a8bd307d7e9394978841a36c71cf4.png)
+
+
+
 
 
 ### Nhóm thực hiện
