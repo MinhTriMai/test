@@ -45,6 +45,9 @@ Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá
 ## Tạo ra website ""
 ...
 
+![Hinh anh](https://s-media-cache-ak0.pinimg.com/originals/23/2a/8b/232a8bd307d7e9394978841a36c71cf4.png)
+
+
 ### Nhóm thực hiện
 Sinh viên đại học kinh tế:
 1. Phan Lương Minh An
