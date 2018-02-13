@@ -2,7 +2,7 @@
 
 Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá trực tuyến vào trong môi trường Đại Học Kinh Tế TP Hồ Chí Minh
 
-![Hinh anh](http://excentris.net/compass/images/compass.png)
+![Hinh anh](https://www.br.de/puls/themen/netz/cliqz-102~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=d6a02)
 
 ## Mô hình C2C
 - Áp dụng mô hình C2C vào: 
