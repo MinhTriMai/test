@@ -1,6 +1,7 @@
 # Đề tài: Nghiên cứu giải pháp về mô hình C2C và đấu giá trực tuyến trên nền tảng Cách mạng công nghiệp 4.0: Tình huống tại Đại học Kinh tế TP Hồ Chí Minh
 
 *Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá trực tuyến vào trong môi trường Đại Học Kinh Tế TP Hồ Chí Minh*
+
 ---
 
 ![Hinh anh](https://www.br.de/puls/themen/netz/cliqz-102~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=d6a02)
