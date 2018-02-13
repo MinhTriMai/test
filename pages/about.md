@@ -1,6 +1,7 @@
 # Đề tài: Nghiên cứu giải pháp về mô hình C2C và đấu giá trực tuyến trên nền tảng Cách mạng công nghiệp 4.0: Tình huống tại Đại học Kinh tế TP Hồ Chí Minh
 
 *Dự án nhằm nghiên cứu và áp dụng mô hình TMĐT C2C và đấu giá trực tuyến vào trong môi trường Đại Học Kinh Tế TP Hồ Chí Minh*
+---
 
 ![Hinh anh](https://www.br.de/puls/themen/netz/cliqz-102~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=d6a02)
 
@@ -20,7 +21,7 @@
 <li> the frst price sealed bid (FPSB) auction; </li>
 <li> the second price sealed bid (SPSB) auction; </li>
 </ul>
-
+---
 
 | Hình thức đấu giá | Mô tả                                                              |
 | ------------------| -------------------------------------------------------------------|
@@ -49,12 +50,15 @@
 
 
 ### Nhóm thực hiện
-Sinh viên đại học kinh tế:
-> 1. Phan Lương Minh An
-> 2. Phạm Anh Dũng
-> 3. Nguyễn Quỳnh Tố Quyên
-> 4. Nguyễn Thuỵ Như Khuê
-> 5. Mai Minh Trị
+
+```
+# code block
+print '1. Phan Lương Minh An'
+print '2. Phạm Anh Dũng'
+print '3. Nguyễn Quỳnh Tố Quyên'
+print '4. Nguyễn Thuỵ Như Khuê'
+print '5. Mai Minh Trị'
+```
 
 ### Giảng viên hướng dẫn
 > Thầy Võ Hà Quang Định
