@@ -46,7 +46,7 @@
  **Áp dụng DUTCH AUCTION và ENGLISH AUCTION**
 
 
-## Tạo ra website " BAT - TAB"
+## Tạo ra website 
 ...
 
 ![Hinh anh](https://s-media-cache-ak0.pinimg.com/originals/23/2a/8b/232a8bd307d7e9394978841a36c71cf4.png)
